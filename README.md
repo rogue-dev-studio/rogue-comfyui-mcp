@@ -2,7 +2,7 @@
 
 **Rogue Development** MCP package for agents.
 
-Status: **partial** - belum auto-wire (`-Mcp all` melewatkan paket ini).
+Status: **partial** - not auto-wired (`-Mcp all` skips this package).
 
 - Market: https://rogue-dev-studio.github.io/rogue-market-agent/
 - Status: partial (wiring fragment may be incomplete)
